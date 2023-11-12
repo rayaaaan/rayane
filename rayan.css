@@ -1,0 +1,30 @@
+*
+    {
+        background-color: pink;
+    }
+
+.page
+    {
+        background-color: white;
+        width: 000px;
+        height: 100px;
+        margin:100px 500px;
+        /* padding: 200px 400px;   */
+        align-items: center; 
+        
+    }
+.button
+    {
+        background-color: white;
+        border: none;
+        padding: 100px;
+        margin-right: 0px;
+    }
+.page h1
+    {
+        background-color: white;
+        color: palevioletred;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 70px;
+    }
+
